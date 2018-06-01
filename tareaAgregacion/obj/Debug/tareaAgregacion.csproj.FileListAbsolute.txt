@@ -1,0 +1,7 @@
+c:\users\ibrah\source\repos\tareaAgregacion\tareaAgregacion\bin\Debug\tareaAgregacion.exe.config
+c:\users\ibrah\source\repos\tareaAgregacion\tareaAgregacion\bin\Debug\tareaAgregacion.exe
+c:\users\ibrah\source\repos\tareaAgregacion\tareaAgregacion\bin\Debug\tareaAgregacion.pdb
+c:\users\ibrah\source\repos\tareaAgregacion\tareaAgregacion\obj\Debug\tareaAgregacion.csprojResolveAssemblyReference.cache
+c:\users\ibrah\source\repos\tareaAgregacion\tareaAgregacion\obj\Debug\tareaAgregacion.csproj.CoreCompileInputs.cache
+c:\users\ibrah\source\repos\tareaAgregacion\tareaAgregacion\obj\Debug\tareaAgregacion.exe
+c:\users\ibrah\source\repos\tareaAgregacion\tareaAgregacion\obj\Debug\tareaAgregacion.pdb
